@@ -1,3 +1,4 @@
-hECTOR 12345678
+Name: Cheung Cheuk Hei
+ID: 20600832
 
-![](image/filename comp3111lab1.png)
+![](comp3111lab1.png)
